@@ -1,0 +1,18 @@
+Todos:
+	- check out the first page of google results for
+		- setting goals
+		- personal goals
+		- health goals
+		- fitness goals
+		- financial goals
+		- career goals
+		- smart goals
+	- quora research
+	- build up the seo framework of 10 articles
+	- find a cool jekyll theme
+		- http://bencentra.com/centrarium/
+		- http://shaneweng.com/landing-page-theme/
+		- http://blog.base68.com/
+		- http://jekyllthemes.org/themes/Jalpc-jekyll-theme/
+	- set up disqus & sumome
+	- personal goal blog?? - find out if it makes sense or not
