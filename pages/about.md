@@ -2,13 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/track.jpeg"
-tags: [About, Test]
+feature-img: "assets/img/pexels/my-plan.jpeg"
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Smart Daily Goals is a blog dedicated to goal setting, productivity, and self-motivation from a maniac goal setter and productivity freak. I love to challenge myself in many ways, be it a fitness challenge, a language learning challenge, or radically changing my day-to-day habits.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I hope my thoughts will help you to be a better you and your comments will help me to be a better me.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
  

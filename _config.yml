@@ -13,15 +13,15 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-    <h1>How to Set SMART Daily Goals to Reach Your Long-term Dreams.</h1>
+    <h1>How to Set SMART Goals on a Daily Basis to Reach Your Long-term Dreams.</h1>
     <p>"The future depends on what you do <u>today</u>." - Mahatma Gandhi</p>
   header_text_feature_image: assets/img/pexels/long-stairway.jpeg
   footer_text: >
-   Goal Setting Tips for Productivity Freaks
+   Goal setting tips for productivity freaks.
 
   # Icons
   rss: false
-  email_address: hello@smartdailygoals.com
+  email_address:
   behance:
   bitbucket:
   dribbble:
