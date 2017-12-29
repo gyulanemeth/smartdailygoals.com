@@ -13,10 +13,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>The future depends on what you do <u>today</u>.</p>
-  header_text_feature_image: assets/img/pexels/running-track.jpeg
+    <h1>How to Set SMART Daily Goals to Reach Your Long-term Dreams.</h1>
+    <p>"The future depends on what you do <u>today</u>." - Mahatma Gandhi</p>
+  header_text_feature_image: assets/img/pexels/long-stairway.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Goal Setting Tips for Productivity Freaks
 
   # Icons
   rss: false
