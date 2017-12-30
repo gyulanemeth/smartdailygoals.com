@@ -11,3 +11,4 @@ Smart Daily Goals is a blog dedicated to goal setting, productivity, and self-mo
 I hope my thoughts will help you to be a better you and your comments will help me to be a better me.
 
  
+About részbe írni magamról. Tumblr acc -> personal goals.
