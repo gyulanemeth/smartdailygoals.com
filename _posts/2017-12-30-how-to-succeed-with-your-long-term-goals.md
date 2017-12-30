@@ -3,7 +3,7 @@ layout: post
 title: "How to Succeed With Your Long-Term Goals" 
 feature-img: "assets/img/pexels/new-year-dreams2.jpeg"
 thumbnail: "assets/img/pexels/new-year-dreams2.jpeg"
-tags: ["Goal Setting", "Long Term Goals", "Personal Goals"]
+tags: ["Goal Setting", "Long Term Goals", "Personal Goals", "SMART Goals"]
 ---
 
 For many people, New Year's Eve is the time when they set goals for the next year, but many of them miserably fail. But Why?
@@ -48,7 +48,7 @@ As I was thinking about what types of goal settings there are, I compiled a list
 
 People usually want to want to **acquire new skills or develop the existing ones**. For example, learning a new language - Chinese in my case -, a martial art, or programming.
  
-Many people want to **change their habits**. The most common example is when they want to **quit a bad habit**, for example, quit smoking or drinking, or you want to drink less coffee. The opposite is when you want to **pick up a new habit**, for example, to get up one hour every day to do something to reach your goals.
+Many people want to **change their habits**. The most common example is when they want to **stop a lousy habit**, for example, quit smoking or drinking, or you want to drink less coffee. The opposite is when you want to **pick up a new habit**, for example, to get up one hour every day to do something to reach your goals.
 
 The last category which came to my mind is when people want to **reach a certain state**. For example, you want to get a degree, want to be an astronaut, or you want to earn one million dollars.
 
@@ -74,66 +74,64 @@ If you think about your goals and they don't pass these criteria, then you have 
 
 ## How to Break Down Your Long-term Goals Into Smaller Ones Which Pass the SMART Criteria
 
-There are some cases, when the sequence of sub-goals are pre-determined, for example if you want to get a degree, you have to pass certain exams. The hard thing is, when you have to come up with this sequence of sub-goals.
+There are some cases, when the sequence of sub-goals are pre-determined, for example, if you want to get a degree, you have to pass specific exams. The hard thing is when you have to come up with this sequence of sub-goals.
 
 Many people set yearly goals, which is already a good start. This way, your goal is already **time-bound**. You can also define **milestones** when you can make sure that you are on track to reach your yearly goals. An easy way to do is to set 3-month goals, which you can divide into monthly, weekly and even daily goals. (Guess where the name of the website comes from.)
 
-If you manage to define daily goals, then you successfully decomposed your incredibly huge goal to **small feasable steps**. You don't necessarily need to go down to daily level, but I think it's preferable.
+If you manage to define daily goals, then you successfully decomposed your huge goal into **small feasible steps**. You don't necessarily need to go down to day-to-day level, but I think it's preferable.
 
 When you have the time constraints, you have to define **specific and measurable** goals that will lead you towards your bigger goals and dreams. For example get a certificate of your skill, instead of only saying that you master that skill.
 
-After that, you can think about breaking it down to **actionable** parts, which is usually leads you to a daily level planning. There is two very important questions to answer:
+After that, you can think about breaking it down to **actionable** parts, which is usually leads you to a daily level planning. There are two fundamental questions to answer:
 
  - How will you do it? (On a monthly, weekly, and daily level.)
  - How much time are you willing to allocate to it? What's your schedule?
 
-If you answered these questions you will be able to tell if your plan is **realistic** or not. If it's not realistic, then change the speific and measurable goal to something more feasable or if you are very determined, change your **action plan**. You can allocate more time to it or you can figure out alternative methods to reach your goal.
+If you answer these questions, you will be able to tell if your plan is **realistic** or not. If it's not realistic, then change the specific and measurable goal to something more feasible or if you are very determined, change your **action plan**. You can allocate more time to it, or you can figure out alternative methods to reach your goal.
 
-After you did this iteration with all of your goals, you should **make sure that all of your goals together are feasable**. It's much better to achieve one thing than not achieveing many, so I suggest you to **focus only on a few things** or target for **smaller goals**.
+After you did this iteration with all of your goals, you should **make sure that all of your goals together are feasable**. It's much better to achieve one thing than not achieving many, so I suggest you to **focus only on a few things** or target for **smaller goals**.
 
 ## Examples of SMART Goal Setting
 
-In this section I am going to show you how to do it in practice. I am going to use my previous examples and break them down into SMART goals. I won't show you each and every detail here and I won't be blogging about my results here. If you want to follow that as well, follow me on tumblr.
+In this section, I am going to show you how to do it in practice. I am going to use my previous examples and break them down into SMART goals. I won't show you every detail here, and I won't be blogging about my results here. If you want to follow that as well, follow me on [Tumblr](https://gyulanemeth.tumblr.com/).
 
 ### SMART Goal Setting for Language Learning
 
 Instead of saying "I want to speak Chinese" I can say "I want to pass an HSK3 test next December." (HSK3 is a standard basic level Chinese language exam.)
 
-The second statement is **specific**, **measurable** and **time-bound**. I haven't tried any Chinese language exam yet, but I know that I'm somewhere between HSK1 and HSK2. It is needless to say that I can add a **milestone** here, which is an HSK2 language exam. There is one this spring, so I have approximately 12-15 weeks to prepare for that. I feel that the first milestone is **realistic**. The second milestone sounds scarier, but it's not unrealistic. I will have 30 weeks to finish a 15 chapter book, which seems to be very hard, but feasable.
+The second statement is **specific**, **measurable** and **time-bound**. I haven't tried any Chinese language exam yet, but I know that I'm somewhere between HSK1 and HSK2. It is needless to say that I can add a **milestone** here, which is an HSK2 language exam. There is one this spring, so I have approximately 12-15 weeks to prepare for that. I feel that the first milestone is **realistic**. The second milestone sounds scarier than the first, but it's not unrealistic. I will have 30 weeks to finish a 15 chapter book, which seems to be very hard, but feasible.
 
 But here comes the question. How am I going to do it? How much time will I invest?
 
-I'm planning to invest half an hour every morning on weekdays to write down example dialogs, which I will review and practice after lunch. This sounds like an **action plan**.
+I'm planning to invest half an hour every morning on weekdays in writing down example dialogs, which I will review and practice after lunch.  It sounds like **an action plan**.
 
 ### SMART Goal Setting for Fitness
 
 Instead of saying "I want to be very, very fit", I can say "I want to run the [Jakarta marathon](http://thejakartamarathon.com/) on the 29th of October".
 
-It's also **specific, measurable and time bound**. I have run a marathon already, so it's **realistic**. I can easily add milestones, for example some half-marathons with desired finish times throughout the year.
+It's also **specific, measurable and time bound**. I have run a marathon already, so it's **realistic**. I can quickly add milestones, for example, some half-marathons with desired finish times throughout the year.
 
-The **action plan** here is extremely simple. Run at least once every week and increase the amount of running week by week. At the beginning once per week is enough. I will see if it's enough when I will run very long distances. If it's not enough, then I will have to increase the number of weekly runst to 2 or 3.
+The **action plan** here is extremely simple. Run at least once every week and increase the amount of running week by week. In the beginning, running once per week is enough. I will see if it's enough when I will run very long distances. If it's not enough, then I will have to increase the number of weekly runs to 2 or 3.
 
-There is one thing I need to mention here. I had problems with my knees after running my first marathon, so if I experience those problems again, I won't run the marathon. If your health is on stake, you definitely have to change your goals immediately.
+There is one thing I need to mention here. I had problems with my knees after running my first marathon, so if I experience those problems again, I won't run the marathon. If your health is at stake, you have to change your goals immediately.
 
 ### SMART Goal Setting for Blogging
 
-Instead of saying "I want to make Smart Daily Goals successful" I can say "I want to reach 1000 likes on Facebook and 1000 twitter followers by the end of the year".
+Instead of saying "I want to make Smart Daily Goals successful" I can say "I want to reach 1000 likes on Facebook and 1000 Twitter followers by the end of the year".
 
-Again, it's **specific, measurable and time-bound**. To be honest, I have no idea if it's **realistic** or not. I need to invest some time to see if it's feasable or not. If it is not, I will need to change my plan.
+Again, it's **specific, measurable and time-bound**. To be honest, I have no idea if it's **realistic** or not. I need to invest some time to see if it's feasible or not. If it is not, I will need to change my plan.
 
-How I want to do it? What's my **action plan**? Well, I want to publish meaningful articles every month, which can help people to be more successful. I don't want to waste my time on articles which are not interesting for people, so I am going to test on Facebook which topics are more attractive to my readers than others.
+How do I want to do it? What's my **action plan**? Well, I want to publish new articles every month, which can help people to be more successful. I don't want to waste my time on materials which are not interesting for people, so I am going to test on [Facebook](https://www.facebook.com/smartdailygoals/) which topics are more attractive to my readers than others.
 
-I also want to share bits of information from the articles on Twitter as a reminder for my audience.
+I also want to share bits of information from the articles on [Twitter](https://twitter.com/SmartDailyGoals) as a reminder for my audience.
 
-The final thing I want to do is to show my results on Tumblr as an evidence that these methods work. I don't want to do it on this blog, because I feel that it's much more personal for this website. I feel I need to separate these two things.
+The final thing I want to do is to show my results on [Tumblr](https://gyulanemeth.tumblr.com/) as evidence that these methods work. I don't want to do it on this blog because I feel that it's much more personal for this website. I think I need to separate these two things.
 
 
 ## Summary
 
-Almost finished.
+Everybody sets goals because of several different reasons. Most of the cases it comes from inside, and usually, it's about **achieving something**, **changing habits** or **learning something new**. 
 
+Long-term goal setting is much more complicated as it seems to be because if you want to be successful, you have to **break them down** to smaller **SMART (Specific, Measurable, Actionable, Realistic, Time-bound) goals**. It helps if you can define **milestones** it gives you feedback on your progress.
 
-
-
-
-
+If you have multiple goals, you have to make sure that you will have enough time to focus on all of them. It's better to succeed with fewer goals than being unsuccessful with many.

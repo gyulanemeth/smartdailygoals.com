@@ -32,3 +32,6 @@ Test articles!!! Vote by likes on fb. 3 article with néhány bekezdés...
 - How to use Todo lists effectively
 - Changing habits
 - Losing Focus
+
+
+About részbe írni magamról. Tumblr acc -> personal goals.
