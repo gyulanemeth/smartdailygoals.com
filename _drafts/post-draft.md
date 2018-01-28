@@ -70,3 +70,13 @@ Twitter Articles I read:
 
 
 - https://www.wikihow.com/Use-Hashtags-With-Twitter
+
+
+5 tips to reach your goals.
+ - don't try to do everything at once
+   - priorize!
+   - Decompose --- sub-goals
+ - start daily habits... what about the mornings? Can you do it then? Everybody can wake up half an hour earlier... Also, in many cases there are many things to do in the afternoon and it's more unpredictable.
+ - start other daily habits - excercise -> train your willpower, run... great training for your willpower
+ - stick to your schedule
+ - doing something is much better than doing nothing!
