@@ -35,3 +35,38 @@ Test articles!!! Vote by likes on fb. 3 article with néhány bekezdés...
 
 
 About részbe írni magamról. Tumblr acc -> personal goals.
+
+Tweets
+
+sub-goals
+SMART Goals
+    Specific
+    Measurable
+    Actionable
+    Realistic
+    Time-bound
+Milestones
+Action plan
+achieving something, changing habits or acquire new knowledge
+
+
+
+Twitter Articles I read:
+ - https://www.wired.com/2016/05/twitter-onboarding-tips-for-new-users/
+  - real time thing...
+    - should definitely use some kind of scheduler.
+     - tweetdeck can do that job!
+  - tweetdeck
+
+- https://blog.twitter.com/official/en_us/a/2016/a-better-way-to-connect-with-people.html
+  - connect tab... basically a recommendation system... not a big deal
+
+- https://www.wikihow.com/Use-Twitter
+  - trending topics
+    - change location...
+    - cool hashtags I found this way:
+        #MondayMotivation #TuesdayThoughts #WednesdayWisdom #FridayFeeling #ThursdayThoughts #TuesdayMotivation
+  - connect with facebook... as a fb page
+
+
+- https://www.wikihow.com/Use-Hashtags-With-Twitter

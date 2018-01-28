@@ -93,7 +93,7 @@ After you did this iteration with all of your goals, you should **make sure that
 
 ## Examples of SMART Goal Setting
 
-In this section, I am going to show you how to do it in practice. I am going to use my previous examples and break them down into SMART goals. I won't show you every detail here, and I won't be blogging about my results here. If you want to follow that as well, follow me on [Tumblr](https://gyulanemeth.tumblr.com/).
+In this section, I am going to show you how to do it in practice. I am going to use my previous examples and break them down into SMART goals. I won't show you every detail here, and I won't be blogging about my results here. If you want to follow that as well, follow me on [Tumblr](https://smartdailygoals.tumblr.com/).
 
 ### SMART Goal Setting for Language Learning
 
