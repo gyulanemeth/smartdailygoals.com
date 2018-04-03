@@ -36,7 +36,7 @@ document.getElementById("arc").setAttribute("d", describeArc(150, 150, 100, 0, 0
 
 const pomodoroFocus = {
     label: "focus",
-    length: 25,
+    length: 25 * 60,
     colors: {
         background: "#abcdef",
         bgArc: "#aabbcc",
