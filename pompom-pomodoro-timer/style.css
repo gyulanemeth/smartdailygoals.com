@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: 'Contrail One', cursive;
+    transition: all 2s;
+}
+
+#header {
+    padding: 1px 10px;
+    background: rgba(100, 100, 100, 0.3);
+    position: relative;
+}
+
+#header #speaker {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+    right: 0;
+    top: 0;
+}
+
+
+h1 {
+    font-size: 16px;
+}
+
+#title-description {
+    color: #888888;
+}
+
+#timer-svg {
+    height: 100vh;
+    width: auto;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-top: -30px;
+}
