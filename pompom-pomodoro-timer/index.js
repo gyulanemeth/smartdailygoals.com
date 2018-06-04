@@ -34,59 +34,63 @@ function describeArc(x, y, radius, startAngle, endAngle){
 
 document.getElementById("arc").setAttribute("d", describeArc(150, 150, 100, 0, 0));
 
-const pomodoroFocus = {
-    label: "focus",
-    length: 25 * 60,
-    colors: {
-        background: "#abcdef",
-        bgArc: "#aabbcc",
-        arc: "#ddeeff"
-    }
-};
-
-const pomodoroShortBreak = {
-    label: "short break",
-    length: 5 * 60,
-    colors: {
-        background: "#abefcd",
-        bgArc: "#aaccbb",
-        arc: "#ddffee"
-    }
-};
-
-const pomodoroLongBreak = {
-    label: "long break",
-    length: 15 * 60,
-    colors: {
-        background: "#abefcd",
-        bgArc: "#aaccbb",
-        arc: "#ddffee"
+const pomodoroTimeboxes = {
+    focus: () => {
+        return {
+            label: "focus",
+            length: 25 * 60,
+            timeSpent: 0,
+            colors: {
+                background: "#abcdef",
+                bgArc: "#aabbcc",
+                arc: "#ddeeff"
+            }
+        };
+    },
+    shortBreak: () => {
+        return {
+            label: "short break",
+            length: 5 * 60,
+            timeSpent: 0,
+            colors: {
+                background: "#abefcd",
+                bgArc: "#aaccbb",
+                arc: "#ddffee"
+            }
+        };
+    },
+    longBreak: () => {
+        return {
+            label: "long break",
+            length: 15 * 60,
+            timeSpent: 0,
+            colors: {
+                background: "#abefcd",
+                bgArc: "#aaccbb",
+                arc: "#ddffee"
+            }
+        }
     }
 };
 
 const timeboxes = [
-    pomodoroFocus,
-    pomodoroShortBreak,
-    pomodoroFocus,
-    pomodoroShortBreak,
-    pomodoroFocus,
-    pomodoroShortBreak,
-    pomodoroFocus,
-    pomodoroLongBreak
+    pomodoroTimeboxes.focus(),
+    pomodoroTimeboxes.shortBreak(),
+    pomodoroTimeboxes.focus(),
+    pomodoroTimeboxes.shortBreak(),
+    pomodoroTimeboxes.focus(),
+    pomodoroTimeboxes.shortBreak(),
+    pomodoroTimeboxes.focus(),
+    pomodoroTimeboxes.longBreak()
 ];
 
 let actTimeboxIdx = 0;
-const actTimebox = {
-    label: null,
-    length: null,
-    timeSpent: 0,
-    colors: null
-};
+let actTimebox = timeboxes[actTimeboxIdx];
+setActTimebox(actTimeboxIdx);
 
 
 document.getElementById("")
 
-setActTimebox(actTimeboxIdx);
 
 document.getElementById("background-arc").setAttribute("d", describeArc(150, 150, 100, 0, 359.9));
 document.getElementById("label").innerHTML = actTimebox.label;
@@ -98,10 +102,23 @@ function setColors(colors) {
 }
 
 function setActTimebox(idx) {
-    actTimebox.label = timeboxes[actTimeboxIdx].label;
-    actTimebox.length = timeboxes[actTimeboxIdx].length;
-    actTimebox.colors = timeboxes[actTimeboxIdx].colors;
+    actTimebox = timeboxes[actTimeboxIdx];
     actTimebox.timeSpent = 0;
+
+    displayTimebox(actTimebox);
+}
+
+function displayTimebox(actTimebox) {
+    document.title = timeToString(actTimebox.length - actTimebox.timeSpent)  + " - " + actTimebox.label;
+    document.getElementById("time-spent").innerHTML = timeToString(actTimebox.timeSpent) + " / " + timeToString(actTimebox.length);
+
+    let deg = 360 / actTimebox.length * actTimebox.timeSpent;
+
+    if (deg === 360) {
+        deg = 359.9;
+    }
+
+    document.getElementById("arc").setAttribute("d", describeArc(150, 150, 100, 0, deg));
 }
 
 function timeToString(time) {
@@ -127,16 +144,8 @@ function play() {
     timerId = setInterval(function() {
         actTimebox.timeSpent += 1;
 
-        document.title = timeToString(actTimebox.length - actTimebox.timeSpent)  + " - " + actTimebox.label;
-        document.getElementById("time-spent").innerHTML = timeToString(actTimebox.timeSpent) + " / " + timeToString(actTimebox.length);
-
-        let deg = 360 / actTimebox.length * actTimebox.timeSpent;
-
-        if (deg === 360) {
-            deg = 359.9;
-        }
-
-        document.getElementById("arc").setAttribute("d", describeArc(150, 150, 100, 0, deg));
+        displayTimebox(actTimebox);
+        showProgress(timeboxes);
 
         if (actTimebox.length - actTimebox.timeSpent < 0.1) {
             if (config.sound) {
@@ -211,3 +220,34 @@ document.getElementById("speaker").onclick = function() {
 
     document.getElementById("speaker-sound").style.display = config.sound ? "" : "none";
 }
+
+function showProgress(timeboxes) {
+    const progressGroup = document.getElementById("progress");
+
+    while (progressGroup.lastChild) {
+        progressGroup.removeChild(progressGroup.lastChild);
+    }
+
+    const rectWidth = 7;
+    const rectRounding = 2;
+
+    const svgNamespace = document.createElementNS("http://www.w3.org/2000/svg", "svg").namespaceURI;
+
+    timeboxes.map((timebox, idx) => {
+        const rect = document.createElementNS(svgNamespace, "rect");
+
+        const color = timebox.timeSpent > 0 ? timebox.colors.arc : timebox.colors.bgArc;
+
+        rect.setAttribute("x", idx * rectWidth);
+        rect.setAttribute("y", 0);
+        rect.setAttribute("width", rectWidth);
+        rect.setAttribute("height", rectWidth);
+        rect.setAttribute("rx", rectRounding);
+        rect.setAttribute("ry", rectRounding);
+        rect.setAttribute("fill", color);
+
+        return rect;
+    }).forEach(rect => progressGroup.appendChild(rect));
+}
+
+showProgress(timeboxes);
