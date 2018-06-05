@@ -157,6 +157,7 @@ function play() {
 
             setActTimebox(actTimeboxIdx);
             setColors(actTimebox.colors);
+            showProgress(timeboxes);
 
             document.getElementById("label").innerHTML = actTimebox.label;
         }
@@ -188,6 +189,7 @@ function prev() {
 
     setActTimebox(actTimeboxIdx);
     setColors(actTimebox.colors);
+    showProgress(timeboxes);
 
     document.getElementById("label").innerHTML = actTimebox.label;
 }
@@ -200,6 +202,7 @@ function next() {
 
     setActTimebox(actTimeboxIdx);
     setColors(actTimebox.colors);
+    showProgress(timeboxes);
     
     document.getElementById("label").innerHTML = actTimebox.label;
 }
@@ -236,7 +239,7 @@ function showProgress(timeboxes) {
     timeboxes.map((timebox, idx) => {
         const rect = document.createElementNS(svgNamespace, "rect");
 
-        const color = timebox.timeSpent > 0 ? timebox.colors.arc : timebox.colors.bgArc;
+        const color = actTimebox === timebox ? timebox.colors.arc : timebox.colors.bgArc;
 
         rect.setAttribute("x", idx * rectWidth);
         rect.setAttribute("y", 0);
