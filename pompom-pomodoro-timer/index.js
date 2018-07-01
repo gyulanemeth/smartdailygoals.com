@@ -86,7 +86,6 @@ const timeboxes = [
 
 let actTimeboxIdx = 0;
 let actTimebox = timeboxes[actTimeboxIdx];
-setActTimebox(actTimeboxIdx);
 
 
 document.getElementById("")
@@ -254,3 +253,8 @@ function showProgress(timeboxes) {
 }
 
 showProgress(timeboxes);
+
+setTimeout(function() {
+    document.getElementById("timer-svg").style.opacity = 1;
+    setActTimebox(actTimeboxIdx);
+}, 1000);
