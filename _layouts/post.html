@@ -8,6 +8,20 @@ layout: default
     {{ page.date | date: "%B %-d, %Y" }}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
+    <p></p>
+
+    <!-- Tag list -->
+    {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
+    {% include tags_list.html tags=tag_list %}
+
+    <p></p>
+    
+    <div class="share-page">
+    Share this on →
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{{ page.url }}&amp;via={{ site.twitter_username }}&amp;related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a> or
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    
+</div>
   </header>
   <section class="post-content">{{ content }}</section>
    
