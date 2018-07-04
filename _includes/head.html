@@ -63,7 +63,7 @@
     {% seo %}
     <!-- Manual seo tags -->
     {% if page.feature-img %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.feature-img }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.feature-img }}" />
     {% endif %}
     <!--
     <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
