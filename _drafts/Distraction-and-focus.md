@@ -37,7 +37,7 @@ https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distract
  https://www.entrepreneur.com/article/225321
  "A distraction is an alert  says, 'Orient your attention here now; this could be dangerous.'" The brain's reaction is automatic and virtually unstoppable.
 
- https://www.entrepreneur.com/article/224943
+ https://www.entrepreneur.com/article/224943 MULTITASKING
  Counter to common belief, you can't do two cognitively complicated tasks at once, Meyer says. When you're on the phone and writing an e-mail at the same time, you're actually switching back and forth between them, since there's only one mental and neural channel through which language flows. "If you have a complicated task, it requires all your attention, and if you're trying to spread your attention over multiple tasks, it's not going to work," he says.
 
  They refer the original work: https://www.apa.org/pubs/journals/releases/xhp274763.pdf
@@ -61,8 +61,10 @@ https://www.lifehack.org/articles/productivity/10-critical-tips-prevent-distract
   - shut your door
   - stand up when someone enters the door
 
+ELSŐ CIKK. ppl
 
-https://blog.mindvalley.com/how-to-focus/
+
+https://blog.mindvalley.com/how-to-focus/ REMOVE EXTERNAL DISTRACTIONS
  - remove distractions
    - tell other people not to bother you when you are working
    - time limits on using phone / checking email --- (and social media)
@@ -81,6 +83,8 @@ https://www.inc.com/bruce-eckfeldt/18-ways-to-avoid-being-distracted-at-work.htm
  - "It's also important to know your triggers. For instance, I know I'm highly visual. I can be intensely focused on a task and not hear a sound, but if there's a television display in my field of vision, I can't help but look. Other people I know can have a wall of screens in front of them and not blink, but someone talking behind them can cause them to use earplugs."
   - "Establish office "focus time" for certain hours of the day or days of the week where everyone agrees not to bother or distract people."
 
+FOCUS TIME, KNOW YOUR TRIGGERS (VISUAL, AUDIO, ETC)
+
 
 https://medium.com/the-mission/how-to-design-a-lifestyle-that-eliminates-distraction-and-enables-hyper-focus-c1f350d5b5ba - ez nagyon fasza cikk.
 “Network tools [like social media, email, the Internet] are distracting us from work that requires unbroken concentration, while simultaneously degrading our capacity to remain focused.” -Cal Newport
@@ -93,6 +97,8 @@ https://medium.com/the-mission/how-to-design-a-lifestyle-that-eliminates-distrac
    - "Your ability to ignore irrelevance is just as important as your ability to focus on priorities."
 "Remember, what we tolerate is what we get."
 “Successful people do what unsuccessful people are unwilling to do.”
+
+TECH DISTRACTIONS, LIFESTYLE, HABIT - FLOW STATES
 
 https://www.psychologytoday.com/intl/blog/your-brain-work/200910/easily-distracted-why-its-hard-focus-and-what-do-about-it
   - "For example, a university of London study (link is external) found that being always connected impacts your IQ equivalent to losing a night's sleep or taking up marijuana."
@@ -107,6 +113,9 @@ https://www.psychologytoday.com/intl/blog/your-brain-work/200910/easily-distract
    "And here's a big take away from all this. Manage what you focus on. Pay attention to your attention, and stop yourself from getting on the wrong train of thought early, before it takes over. This is the oppositive of being mindless: it's being mindful."
     - start with the though work... leave the brainless stuff to the end of the day...
  "So in summary, how do you beat back distractions? Turn everything off. And do your deeper thinking work in the morning while you still have the ability to control your attention. Sounds easy enough. In practice it's tough, but it works."
+
+ TECH DISTRUCTIONS.
+ ELSŐ CIKK ELSŐ BEKEZDÉS
 
 
 https://goinswriter.com/distraction/ - van benne egy-két jó gondolat, de a distraction-ről nem sok igazából.
